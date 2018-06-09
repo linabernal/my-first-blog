@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+#Cambia los  cambios que haga automaticamente, lleva un registro, control de versiones.
+#el archivo hace que git ignore 
